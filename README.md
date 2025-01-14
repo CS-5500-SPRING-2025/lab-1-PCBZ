@@ -37,6 +37,9 @@ More detailed submission instructions can be found via the [lab page](https://pa
 ## Task 1: Prepare your System (1 mark)
 
 Include screenshots as described in the [Lab 1](L1.md) file.
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/4827c022-bc8a-44b3-ac55-1147d06acea1" />
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/4beec3dd-3042-478e-b130-c7f4af1d4844" />
+<img width="897" alt="image" src="https://github.com/user-attachments/assets/12b9d1e0-147c-4c8f-99bb-94db9f554d9b" />
 
 ## Task 2: GitHub Tutorial (24 marks)
 
