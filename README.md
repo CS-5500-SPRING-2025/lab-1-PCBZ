@@ -42,8 +42,9 @@ Include screenshots as described in the [Lab 1](L1.md) file.
 <img width="897" alt="image" src="https://github.com/user-attachments/assets/12b9d1e0-147c-4c8f-99bb-94db9f554d9b" />
 
 ## Task 2: GitHub Tutorial (24 marks)
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/dc60b852-ac90-477a-a0dc-55a0a837ebf2" />
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/fc9d3879-464f-4750-a252-825779a49c49" />
 
-Include screenshots as described in the [Lab 1](L1.md) file.
 
 ## Task 3: Lab Questions (11 marks)
 
