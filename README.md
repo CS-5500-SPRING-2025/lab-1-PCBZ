@@ -33,6 +33,11 @@ Example (Lab 3):
 
 More detailed submission instructions can be found via the [lab page](https://parsa-rajabi.github.io/CS-5500/#/labs).
 
+### AI Disclosure
+`L1_AI_Declaration_Wenshuang_Zhou_1002443680.pdf`
+
+
+
 
 ## Task 1: Prepare your System (1 mark)
 
